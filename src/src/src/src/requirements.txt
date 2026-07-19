@@ -1,0 +1,12 @@
+torch
+torchvision
+tensorflow
+opencv-python
+numpy
+pandas
+scikit-learn
+transformers
+librosa
+matplotlib
+flask
+streamlit
